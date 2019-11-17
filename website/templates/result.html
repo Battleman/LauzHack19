@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+
+<head>
+</head>
+
+<body>
+    The waste you are holding is of type {{wtype}}
+    {% if wtype == "Aluminium"%}
+        <img src="/static/images/poubelle_alu1.jpg">
+    {% else %}
+        <img src="/static/images/poubelle_verre1.jpg">
+    {% endif %}
+</body>

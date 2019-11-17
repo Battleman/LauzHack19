@@ -1,0 +1,9 @@
+Aluminium
+Carton
+PET
+Dechet
+Verre_Brun
+Verre_Blanc
+Verre_Reste
+Papier
+Organique
